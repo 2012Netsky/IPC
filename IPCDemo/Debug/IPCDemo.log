@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  IPCDemo.cpp
+F:\下载\资源\资源\1607ddb92f46c993557c-Original-多线程编程实战源代码\9790OS_Code\9790OS_Chapter_Code_2\9790OS_Chapter_2\IPCDemo\IPCDemo.cpp(135,42): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+F:\下载\资源\资源\1607ddb92f46c993557c-Original-多线程编程实战源代码\9790OS_Code\9790OS_Chapter_Code_2\9790OS_Chapter_2\IPCDemo\IPCDemo.cpp(136,44): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  IPCDemo.vcxproj -> F:\下载\资源\资源\1607ddb92f46c993557c-Original-多线程编程实战源代码\9790OS_Code\9790OS_Chapter_Code_2\9790OS_Chapter_2\Debug\IPCDemo.exe
